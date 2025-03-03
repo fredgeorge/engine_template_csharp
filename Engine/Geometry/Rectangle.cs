@@ -1,5 +1,5 @@
 ﻿/*
- * Copyright (c) 2024 by Fred George
+ * Copyright (c) 2025 by Fred George
  * May be used freely except for training; license required for training.
  * @author Fred George  fredgeorge@acm.org
  */
